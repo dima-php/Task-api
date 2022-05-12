@@ -7,7 +7,7 @@
 ## Installation
 
 ```shell
- git clone https://github.com/dima-php/task-api.git task
+ git clone https://github.com/shkera/task-api.git task
 ```
 
 ```shell
@@ -41,7 +41,7 @@ php artisan migrate:fresh --seed
 
 ## Swagger
 
-[Swagger link](https://app.swaggerhub.com/apis-docs/dima-php/Tasks/1.0.0)
+[Swagger link](https://app.swaggerhub.com/apis-docs/shkera/Tasks/1.0.0)
 
 ## Run the application
 

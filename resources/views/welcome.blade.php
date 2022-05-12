@@ -28,13 +28,13 @@
                 <div class="d-flex justify-content-center items-center  mt-3 col-4">
                     <div class="text-center text-sm w-100" >
                         <div class="d-flex items-center  w-100 justify-content-around col-3">
-                            <a href="https://app.swaggerhub.com/apis-docs/dima-php/Tasks/1.0.0" class="btn btn-success">
+                            <a href="https://app.swaggerhub.com/apis-docs/shkera/Tasks/1.0.0" class="btn btn-success">
                                 Swagger RESTful API
                             </a>
-                            <a href="https://github.com/dima-php/task-api" class=" btn btn-secondary">
+                            <a href="https://github.com/shkera/task-api.git" class=" btn btn-secondary">
                                 Git
                             </a>
-                            <a href="https://djinni.co/q/11e5ce684f/" class="btn btn-link">
+                            <a href="https://djinni.co/q/6211ccbc92/" class="btn btn-link">
                                 Laravel developer
                             </a>
                         </div>
