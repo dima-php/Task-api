@@ -34,7 +34,7 @@
                             <a href="https://github.com/shkera/task-api.git" class=" btn btn-secondary">
                                 Git
                             </a>
-                            <a href="https://djinni.co/q/6211ccbc92/" class="btn btn-link">
+                            <a href="https://djinni.co/q/6211ccbc92/" class="btn btn-primary">
                                 Laravel developer
                             </a>
                         </div>
