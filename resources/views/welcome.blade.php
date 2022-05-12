@@ -25,26 +25,26 @@
                     </div>
                 </div>
 
-                <div class="d-flex justify-content-center items-center  mt-3 col-4">
+                <div class="d-flex justify-content-center items-center  mt-3 col-5">
                     <div class="text-center text-sm w-100" >
-                        <div class="d-flex items-center  w-100 justify-content-around col-3">
-                            <a href="https://app.swaggerhub.com/apis-docs/shkera/Tasks/1.0.0" title="link Swagger RESTful API" target="_blank" class="btn btn-success">
+                        <div class="d-flex items-center  w-100 justify-content-around  flex-wrap mt-1">
+                            <a href="https://app.swaggerhub.com/apis-docs/shkera/Tasks/1.0.0" title="link Swagger RESTful API" target="_blank" class="btn btn-success mt-1">
                                 Swagger RESTful API
                             </a>
-                            <a href="https://github.com/shkera/task-api.git" target="_blank" title="Git code example" class=" btn btn-secondary">
+                            <a href="https://github.com/shkera/task-api.git" target="_blank" title="Git code example" class=" btn btn-secondary mt-1">
                                 Git
                             </a>
-                            <a href="https://djinni.co/q/6211ccbc92/" target="_blank" title="My djinni profile" class="btn btn-primary">
+                            <a href="https://djinni.co/q/6211ccbc92/" target="_blank" title="My djinni profile" class="btn btn-primary mt-1">
                                 Laravel developer
                             </a>
-                            <a href="https://www.linkedin.com/in/dmitriy-konovalenko-0966151b7/" title="My linkedin profile" target="_blank" class="btn btn-primary">
+                            <a href="https://www.linkedin.com/in/dmitriy-konovalenko-0966151b7/" title="My linkedin profile" target="_blank" class="btn btn-primary mt-1">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
                                     <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/>
                                 </svg>
                                 Linkedin
                             </a>
                         </div>
-                        <div class="info mt-4 text-center ">
+                        <div class="info mt-4 text-center mt-1">
                            <span class="text-danger">Laravel </span> {{ app()->version()  }}  | <span class="text-primary"> PHP </span>   {{phpversion()}}
                         </div>
                     </div>
