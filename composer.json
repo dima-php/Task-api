@@ -12,12 +12,12 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.54",
         "laravel/sanctum": "^2.15",
-        "laravel/tinker": "^2.5",
-        "ext-http": "*"
+        "laravel/tinker": "^2.5"
+
     },
     "require-dev": {
         "facade/ignition": "^2.5",
-        "laravel/sail": "^1.0.1",
+        "laravel/sail": "^1.14.4",
         "mockery/mockery": "^1.4.2",
         "nunomaduro/collision": "^5.0",
         "phpunit/phpunit": "^9.3.3"
