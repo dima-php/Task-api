@@ -44,8 +44,15 @@
                                 Linkedin
                             </a>
                         </div>
+                        <hr>
                         <div class="info mt-4 text-center mt-1">
                            <span class="text-danger">Laravel </span> {{ app()->version()  }}  | <span class="text-primary"> PHP </span>   {{phpversion()}}
+                        </div>
+                        <hr>
+                        <div class="info mt-4 text-center mt-1">
+                            <a href="mailto:dima92konovalenko@gmail.com" title="Send Email" class="btn btn-primary mt-1">
+                                Contact us
+                            </a>
                         </div>
                     </div>
                 </div>
