@@ -31,9 +31,12 @@
                             <a href="https://app.swaggerhub.com/apis-docs/shkera/Tasks/1.0.0" title="link Swagger RESTful API" target="_blank" class="btn btn-success mt-1">
                                 Swagger RESTful API
                             </a>
-                            <a href="https://github.com/shkera/task-api.git" target="_blank" title="Git code example" class=" btn btn-secondary mt-1">
-                                Git
+                            <a href="https://github.com/shkera/task-api.git" target="_blank" title="GitHub code example" class=" btn btn-secondary mt-1">
+                                GitHub
                             </a>
+                        </div>
+                        <hr>
+                        <div class="d-flex items-center  w-100 justify-content-around  flex-wrap mt-1">
                             <a href="https://djinni.co/q/6211ccbc92/" target="_blank" title="My djinni profile" class="btn btn-primary mt-1">
                                 Laravel developer
                             </a>
